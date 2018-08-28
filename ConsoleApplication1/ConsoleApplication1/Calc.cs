@@ -14,6 +14,9 @@ namespace ConsoleApplication1
         void Div()
         {
         }
+        void DivB()
+        {
+        }
 
     }
 }
