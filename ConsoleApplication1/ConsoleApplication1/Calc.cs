@@ -8,5 +8,8 @@ namespace ConsoleApplication1
 {
     class Calc
     {
+        void Add()
+        {
+        }
     }
 }
