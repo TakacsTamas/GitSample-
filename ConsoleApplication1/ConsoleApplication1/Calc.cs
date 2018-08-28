@@ -11,5 +11,9 @@ namespace ConsoleApplication1
         void Add()
         {
         }
+        void Div()
+        {
+        }
+
     }
 }
